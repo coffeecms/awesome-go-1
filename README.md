@@ -225,6 +225,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 * [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 * [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
+* [coffeecms/go_coffeecache](https://github.com/coffeecms/go_coffeecache) - An in-memory key:value store/cache (similar to Redis) library for Go, suitable for single-machine applications.
 * [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 * [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
 * [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
